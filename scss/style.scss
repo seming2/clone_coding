@@ -1,0 +1,14 @@
+@import "abstracts/variable.scss"; //변수
+@import "abstracts/mixin.scss"; //믹스인
+
+@import "base/reset.scss"; //리셋
+@import "base/typography.scss"; //텍스트
+
+@import "layout/header.scss"; //헤더
+@import "component/search.scss"; // 검색
+
+@import "component/gnb.scss";//메뉴
+
+@import "component/button.scss";//버튼
+
+@import "component/megamenu.scss";// 팝업메뉴
